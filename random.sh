@@ -16,5 +16,5 @@ else
     echo "1"
     sleep 1
     echo "ok bye"
-    shutdown
+    shutdown -h now
 fi
