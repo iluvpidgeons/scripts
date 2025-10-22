@@ -1,8 +1,8 @@
 #!/bin/bash
  
-read -p "Do you want to continue? (y/n): " answer
+read -p "are you a diddyblud (y/n): " answer
 if [[ "$answer" =~ ^[Yy]$ ]]; then
-    echo "You answered yes."
+    "mango six seven"
 else
-    echo "You answered no or something else."
+    echo "lowkey I would shutdown or something but I dont wanna do that"
 fi
