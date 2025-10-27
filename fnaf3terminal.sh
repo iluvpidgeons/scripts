@@ -13,15 +13,13 @@ read -p ": " answer1
 case "$answer1" in
     *1*)
         audio=1
-        ;;&&
+        ;;&
     *2*)
         camera=1
-        ;;&&
+        ;;&
     *3*)
         ventilation=1
-        ;;&&
-    *)
-        
+        ;;  
 esac
 
 if [[ "$answer1" == r ]]; then
