@@ -8,3 +8,5 @@ asks you if you're a diddyblud mango and if you're not it shuts down in 5 second
 
 ## fnaf3terminal.sh
 replicates the repair terminal from fnaf 3, all it does is look cool
+
+# dont mind the c++ shit I added and removed
